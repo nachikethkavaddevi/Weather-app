@@ -1,0 +1,13 @@
+.app-bg {
+  background: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url(./weatherimg.jpg) ;
+  /* background-image: url(./weatherimg.jpg); */
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.side-bg{
+  background-color: rgba(0,0,0,0.7);
+}
+#app{
+background-image: url(./background.jpg);
+}
